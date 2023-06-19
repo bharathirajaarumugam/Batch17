@@ -1,0 +1,38 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(225, 153, 18);
+    /* background-image: linear-gradient(blue,red,yellow,green); */
+    margin:0 auto;
+    margin-top: 200px;
+    transition: transform 5s;
+    /* transition:opacity 5s; */
+    /* transform:scale(3); */
+    /* transform:scale(2,3); */
+    /* transform: scaleY(3); */
+    /* transform: scaleY(4); */
+    /* transform: rotate(80deg); */
+    /* transform: rotate(-80deg); */
+    /* transform: rotate(150deg); */
+    /* transform:rotateY(110deg); */
+}
+.head
+{
+ ṭransition:border 5s,font-size 5s;
+ transition:transform 0.5s;  
+ background-color: black; 
+ color: blue;
+}
+.head:hover{
+    transform: rotate(180px);
+    transform:skew(120deg);
+    border: 10px dotted green;
+    font-size: 60px;
+    color: yellow;
+}
+div:hover{
+    /* opacity: 0.1; */
+    /* transform: translate(200px,400px); */
+    transform:skew(90deg,90deg) rotate(70deg) scale(2) translate(200px);
+    transform: skew(360deg,360deg);
+}

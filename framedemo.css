@@ -1,0 +1,45 @@
+/* .second{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(203, 23, 200);
+    animation-name: mine;
+    animation-duration: 5s;
+}
+@keyframes mine{
+    from{background-color: rgb(0, 255, 0);}
+    to{background-color: blue;}
+} */
+/* .main{
+    height: 300px;
+    width: 400px;
+    background-color: blueviolet;
+    transition-property: height;
+    transition-duration: 5s;
+    transition-timing-function:ease-in-out;
+    transition-delay: 2s;
+} */
+/* .trans:hover{
+    height: 1000px;
+} */
+.one{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  animation-name: example;
+  animation-duration: 5s;
+}
+@keyframes example {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+  }
+/* @keyframes one{
+    0% {background-color: rgb(24, 195, 61);right: 0px;bottom: 0pxs;}
+    25% {background-color: rgb(209, 12, 130);right:200px;bottom: 00px;}
+    50% {background-color: rgb(222, 26, 26);right:200px;bottom: 200px;}
+    75% {background-color: rgb(20, 23, 188);right:00px;bottom: 200px;}
+    100% {background-color: rgb(190, 223, 25);right:00px;bottom: 00px;}
+} */

@@ -1,0 +1,175 @@
+.one
+{
+    background:url('https://wallpapers.com/images/hd/hd-sunset-at-beach-w5ped7x6g3uo2o76.jpg');
+    border: solid 60px rgb(7, 7, 7);
+    height: 100vh;
+    width: 80%;
+    background-color: bisque;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+/* .two
+{
+    color: rgb(44, 187, 15);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 250%;
+    text-align: center;
+    background-image:url("roses.jpg");
+    border: solid 60px rgb(7, 7, 7);
+    border-radius: 50%;
+    align-items: center;
+    background-size: cover;
+    background-repeat:repeat;
+} */
+h1{
+    color:rgb(221, 204, 12);
+    margin-left: 300px;
+    font-size:small;
+    margin-top: 300px;
+}
+p
+{
+    color: white;
+    margin-left: 300px;
+    font-size:xx-large;
+}
+.two{
+ background-color: transparent; 
+ color: rgb(49, 22, 137);
+ font-size:medium; 
+ border: solid 2px green;
+ height: 30px;
+ width: 200px;
+ margin-left:20%;
+}
+.three
+{
+ background-color: transparent; 
+ color: rgb(49, 22, 137);
+ font-size:medium; 
+ border: solid 2px green;
+ height: 30px;
+ width: 200px;
+ margin-right:20%;
+}
+.food{
+    font-family: 'Tangerine', serif;
+    background:url('https://www.hdnicewallpapers.com/Walls/Big/Food%20and%20Drinks/Fast_Food_Dishes_for_Takeaway_in_Bar_4K_Wallpapers.jpg');
+    height: 100vh;
+    border: solid 60px rgb(7, 7, 7);
+    width: 100%;
+    font-size:xx-large;
+    background-size:cover;
+    margin-top: 40%;
+    text-align:center;
+    color:white;
+}
+.food1{
+ background-color:rgb(3, 3, 3); 
+ color: rgb(240, 249, 249);
+ font-size:medium; 
+ border: solid 2px rgb(234, 242, 241);
+ height: 30px;
+ width: 250px;
+}
+.para1{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+}
+.para2{
+    text-align: center;
+    font-family: 'Shojumaru', cursive;
+}
+.para3{
+    text-align: center;
+    font-family: 'Charmonman', cursive;
+}
+.shop{
+    background: url('https://img.freepik.com/premium-photo/woman-preparing-arranging-flowers_53876-148251.jpg?w=2000');
+    background-repeat: no-repeat;
+    border: solid 60px rgb(7, 7, 7);
+    height: 50vh;
+    width: 100%;
+    background-size:cover;
+    text-align:center;
+    color:white;
+}
+.flower{
+    font-family: 'Nosifer', cursive;
+    color: red;
+    text-align: center;
+    font-size:80px ;
+    width: 50%;
+    height: 10%;
+}
+.cut{
+    background: url('https://img.freepik.com/free-photo/florist-making-beautiful-floral-bouquet_23-2148846490.jpg?w=2000');
+    background-repeat: no-repeat;
+    border: solid 60px rgb(7, 7, 7);
+    height: 50vh;
+    width: 100%;
+    background-size:cover;
+    text-align:center;
+    color:white;
+}
+.rose{
+    font-family: 'Sevillana', cursive;
+    color: rgb(14, 20, 20);
+    font-size:25px;
+    bottom:20%;
+    text-decoration: dotted;
+}
+.red{
+    background-image: url('https://media.istockphoto.com/id/690842342/photo/flower-arrangement-on-a-wooden-table.jpg?s=2048x2048&w=is&k=20&c=GQpeUv7Vi_7HM3QGvssad9rnJOhRtHlw-vXS0QKndYo=');
+    font-family: 'Reggae One', cursive;
+    border: solid 60px rgb(7, 7, 7);
+    font-size: 100px;
+    text-align:left;
+    background-clip:content-box;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.blue{
+    font-family: 'Are You Serious', cursive;
+    color:rgb(219, 22, 156);
+    font: size 100px;
+}
+.veg{
+    background-image: url('https://as2.ftcdn.net/v2/jpg/01/05/59/03/500_F_105590368_zthU3QxvBCIEJOQJxVs1jllfytvH45xu.jpg');
+    background-repeat: no-repeat;
+    border: solid 60px rgb(7, 7, 7);
+    border: solid 2px rgb(7, 7, 7);
+    background-size:cover;
+}
+.veg1{
+    font-family: 'Henny Penny', cursive;
+    height: 50vh;
+    width: 100%;
+    font-size:30px;
+    position:initial;
+    text-align:left;
+    color:rgb(223, 113, 3);
+    margin-left: 15%;
+}
+.veg2{
+    font-family: 'Kaushan Script', cursive;
+    height: 10vh;
+    width: 100%;
+    font-size:60px;
+    text-align:left;
+    color:rgb(207, 28, 159);
+    margin-left: 20%;
+    margin-bottom: 20%;
+    background-position: 50%;
+    border: 2px black;
+}
+.veg3{
+    background-color:rgb(245, 237, 237); 
+    color: rgb(1, 13, 13);
+    font-size:larger; 
+    left:20%;
+    border: solid 5px rgb(9, 10, 10);
+    text-align: center;
+    height: 40px;
+    width: 250px;
+}

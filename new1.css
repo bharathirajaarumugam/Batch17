@@ -1,0 +1,21 @@
+body
+{
+    background-color:aqua;
+}
+h1{
+    font-size:xx-large;
+    align-items:center;
+}
+.div
+{
+    border-style:double;
+    text-align: center;
+}
+#test
+{
+    width: 250px;
+}
+#test1
+{
+    width: 35px;
+}

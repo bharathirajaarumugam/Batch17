@@ -1,0 +1,117 @@
+/* .pic
+{
+ background-image: url("spiderman.jpg"); 
+ background-size: auto;
+ height:500px;
+ width:500px;
+ background-repeat:;
+ background-size:cover;
+ background-position: 100%;
+ border-radius:100%
+}
+.main
+{
+ background-image: url("rose.jpg");  
+ background-size: auto;
+ height:500px;
+ width:500px;
+ background-repeat:;
+ background-size:cover;
+ background-position: 100%;
+ border-radius:100%
+} */
+.one
+{
+    background:url('slide01.jpg')
+    no-repeat;
+    background-size:100%;
+}
+.spring-text
+{
+    color:aqua;
+    letter-spacing: 0.1m;
+    color: rgb(14, 229, 225);
+    font-style: normal;
+    border: chartreuse;
+    font-size:500%;
+    font-family: "Audiowide", sans-serif;
+    text-align:center;
+}
+.first
+{
+    background-image: url("hack1.png"); 
+    background-size: auto;
+    height:200px;
+    width:200px;
+    background-size:cover;
+    background-position: 100%;
+    border-radius:100%
+   }
+.second
+{
+    background-image: url("hacks.jpg"); 
+    
+    background-size:cover;
+    height:200px;
+    width:200px;
+    background-size: 140%;
+    background-position: 33vh;
+    background-position: 35vw;
+    border-radius:100%;
+    margin-inline-start: auto;
+    margin-block-end: auto;
+    margin-top: 0%;
+   }
+.main
+{
+    color: brown;
+    font-size: medium;
+    padding: 100px;
+    height: 100vh;
+    width: 100%;
+    background-origin: border-box
+    /* background-color:yellow; */
+
+}
+.start
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 100px;
+    text-align: center;
+    background-image:url("horse.jpg");
+    background-size: cover;
+    background-repeat:repeat;
+    background-clip:text;
+    -webkit-background-clip: text; 
+    color:transparent;
+    /* position: relative;
+    bottom: 350px;
+    /* right: 100px; */
+    /* margin-right: 100px;
+    margin-left: 150px; */ 
+}
+.font{
+    color:white;
+}
+.third
+{
+    
+    /* background-size: auto; */
+    height:200px;
+    width:200px;
+    background-size:cover;
+    /* margin-top:50px;
+    margin-bottom:70px;
+    margin-left:60px;
+    margin-right: 80px; */
+    /* background-position:50%; */
+    /* bottom: 350px; */
+    /* right: 100px; */
+    /* border-radius:100%;
+    margin-bottom:100px ;
+    padding-bottom:30px;
+    margin-top:-10px; */
+    /* margin-right:100px;
+    margin-left:500px; */
+}
