@@ -1,0 +1,37 @@
+body{
+    height: 80%;
+    width: 75%;
+    padding: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: greenyellow;
+    border: 2px solid black;
+    border-radius: 1.5rem;
+}
+.first{
+    font-family: 'open Sans', sans-serif;
+    border-collapse: collapse;
+}
+th,td{
+    border-collapse: collapse;
+    padding:0.8rem;
+    font-size: 1.4rem;
+}
+th{
+    background-color: yellow;
+    color:black;
+}
+td{
+    background:white;
+    color:black;
+}
+tbody{
+    background-color: greenyellow;
+    color: black;
+}
+.text{
+    color: white;
+    text-align: center;
+    font-size:xx-large;
+}

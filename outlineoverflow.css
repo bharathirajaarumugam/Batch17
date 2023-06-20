@@ -1,0 +1,35 @@
+div{
+    background-color: white;
+    height: 300px;
+    width:600px;
+    margin:0 auto;
+    margin-top: 100px;
+    border: 2px groove rgb(14, 15, 14);
+    /* border: 2px hidden rgb(14, 15, 14); */
+    /* border: 2px groove green; */
+    outline: 2px ridge red;
+    outline-offset: 4px;
+    overflow-x: scroll;   
+    overflow-y: scroll;
+    /* cursor:grab; */
+    /* cursor:text; */
+    /* cursor:help; */
+    /* cursor: progress; */
+    /* cursor: move; */
+    /* cursor: not-allowed; */
+    /* cursor: zoom-in; */
+    /* cursor:grabbing; */
+    /* cursor: pointer; */
+    /* cursor: col-resize; */
+    /* cursor:none; */
+    /* cursor: copy; */
+    /* cursor: alias; */
+    /* cursor: no-drop; */
+    /* cursor: all-scroll; */
+    /* cursor: n-resize; */
+    /* cursor: nw-resize; */
+    /* cursor: cell; */
+    /* cursor: default; */
+    cursor:url('slide01.jpg'),pointer;
+    
+}

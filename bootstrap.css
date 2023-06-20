@@ -1,0 +1,12 @@
+h1{
+    color:red;
+}
+h1{
+    color: blue !important;
+}
+h1{
+    color:brown !important;
+}
+.para{
+    left: 10%;
+}
